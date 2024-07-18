@@ -28,6 +28,16 @@ A pinpointed list of credit payment, credit card fraud detection papers &amp; re
   - Van Bach Nguyen, Kanishka Ghosh Dastidar, Michael Granitzer, Wissam Siblini
   - [[Paper]](https://proceedings.mlr.press/v151/bach-nguyen22a/bach-nguyen22a.pdf)
 
+## 2021 
+
+- **<div id = 'san-rnn'>Online Credit Payment Fraud Detection via Structure-Aware Hierarchical Recurrent Neural Network (IJCAI 2021)</div>** 
+  - Wangli Lin, Li Sun, Qiwei Zhong, Can Liu, Jinghua Feng, Xiang Ao, Hao Yang
+  - [[Paper]](https://www.ijcai.org/proceedings/2021/0505.pdf), [[Code]](https://github.com/WangliLin/SAH-RNN)
+
+- **<div id = 'difm'>Modeling the Field Value Variations and Field Interactions Simultaneously for Fraud Detection (AAAI 2021)</div>**
+  - Dongbo Xi, Bowen Song, Fuzhen Zhuang, Yongchun Zhu, Shuai Chen, Tianyi Zhang, Yuan Qi, Qing He
+  - [[Paper]](https://sci-hub.wf/10.1145/3442442.3451147)
+
 ## 2020
 
 - **<div id = 'stan'>Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection
@@ -35,8 +45,14 @@ A pinpointed list of credit payment, credit card fraud detection papers &amp; re
   - Dawei Cheng, Sheng Xiang, Chencheng Shang, Yiyi Zhang, Fangzhou Yang, Liqing Zhang
   - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/5371/5227)
 
+- **<div id = 'fml'>Federated Meta-Learning for Fraudulent Credit Card Detection (IJCAI 2020)</div>**
+  - Wenbo Zheng, Lan Yan, Chao Gou, Feiyue Wang
+  - [[Paper]](https://www.ijcai.org/Proceedings/2020/0642.pdf)
+
 - **<div id = 'fcl'>Deep Representation Learning With Full Center Loss for Credit Card Fraud Detection (TCSS 2020)</div>**
   - Zhenchuan Li, Guanjun Liu, Changjun Jiang
+  - [[Link]](https://ieeexplore.ieee.org/abstract/document/9000549)
+  
   
 ## 2019
 
