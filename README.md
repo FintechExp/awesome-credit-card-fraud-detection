@@ -4,19 +4,27 @@
     <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/></a>
 </div>
 
-A pinpointed list of credit payment, credit card fraud detection papers &amp; resources. 
+A pinpointed list of works on credit payment, credit card fraud detection. 
 
-## 2024
-
-- **<div id = 'futureinfo'>Learning Transactional Behavioral Representations for Credit Card Fraud Detection (TNNLS 2024)</div>** 
-  - Yu Xie, Guanjun Liu, Chungang Yan, Changjun Jiang, Mengchu Zhou, Maozhen Li
-  - [[Link]](https://ieeexplore.ieee.org/document/9912385)
 
 ## 2023
 
 - **<div id = 'gtan'>Semi-supervised Credit Card Fraud Detection via Attribute-Driven Graph Representation (AAAI 2023)</div>** 
   - Sheng Xiang, Mingzhi Zhu, Dawei Cheng, Enxia Li, Ruihui Zhao, Yi Ouyang, Ling Chen, Yefeng Zheng
   - [[Paper]](https://www.researchgate.net/profile/Sheng-Xiang-6/publication/371928263_Semi-supervised_Credit_Card_Fraud_Detection_via_Attribute-Driven_Graph_Representation/links/64a117f795bbbe0c6e06f5cd/Semi-supervised-Credit-Card-Fraud-Detection-via-Attribute-Driven-Graph-Representation.pdf), [[Code]](https://github.com/AI4Risk/antifraud)
+
+- **<div id = 'kisa'>Knowledge-inspired Subdomain Adaptation for Cross-Domain Knowledge Transfer (CIKM 2023)</div>** 
+  - Liyue Chen, Linian Wang, Jinyu Xu, Shuai Chen, Weiqiang Wang, Wenbiao Zhao, Qiyu Li, Leye Wang
+  - [[Paper]](https://arxiv.org/pdf/2308.09724)
+
+- **<div id = 'hin2vec'>G-HIN2Vec: Distributed Heterogeneous Graph Representations for Cardholder Transactions (SAC 2023)</div>**
+  - Farouk Damoun, Hamida Seba, Jean Hilger, Radu State
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3555776.3577740)
+
+- **<div id = 'stgn'>A Spatial–Temporal Gated Network for Credit Card Fraud Detection by Learning Transactional Representations (TASAE 2023)</div>** 
+  - Yu Xie, Guanjun Liu, MengChu Zhou, Lifei Wei, Honghao Zhu, Rigui Zhou, Lei Cao.
+  - [[Link]](https://ieeexplore.ieee.org/abstract/document/10345549)
+
 
 ## 2022
 
@@ -28,6 +36,11 @@ A pinpointed list of credit payment, credit card fraud detection papers &amp; re
   - Van Bach Nguyen, Kanishka Ghosh Dastidar, Michael Granitzer, Wissam Siblini
   - [[Paper]](https://proceedings.mlr.press/v151/bach-nguyen22a/bach-nguyen22a.pdf)
 
+- **<div id = 'tbr-ccfd'>Learning Transactional Behavioral Representations for Credit Card Fraud Detection (TNNLS 2022)</div>** 
+  - Yu Xie, Guanjun Liu, Chungang Yan, Changjun Jiang, Mengchu Zhou, Maozhen Li
+  - [[Link]](https://ieeexplore.ieee.org/document/9912385)
+
+
 ## 2021 
 
 - **<div id = 'san-rnn'>Online Credit Payment Fraud Detection via Structure-Aware Hierarchical Recurrent Neural Network (IJCAI 2021)</div>** 
@@ -38,10 +51,10 @@ A pinpointed list of credit payment, credit card fraud detection papers &amp; re
   - Dongbo Xi, Bowen Song, Fuzhen Zhuang, Yongchun Zhu, Shuai Chen, Tianyi Zhang, Yuan Qi, Qing He
   - [[Paper]](https://sci-hub.wf/10.1145/3442442.3451147)
 
+
 ## 2020
 
-- **<div id = 'stan'>Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection
- (AAAI 2020)</div>**
+- **<div id = 'stan'>Spatio-Temporal Attention-Based Neural Network for Credit Card Fraud Detection (AAAI 2020)</div>**
   - Dawei Cheng, Sheng Xiang, Chencheng Shang, Yiyi Zhang, Fangzhou Yang, Liqing Zhang
   - [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/5371/5227)
 
@@ -49,9 +62,13 @@ A pinpointed list of credit payment, credit card fraud detection papers &amp; re
   - Wenbo Zheng, Lan Yan, Chao Gou, Feiyue Wang
   - [[Paper]](https://www.ijcai.org/Proceedings/2020/0642.pdf)
 
+- **<div id = 'stagn'>Graph Neural Network for Fraud Detection via Spatial-Temporal Attention (TKDE 2020)</div>** 
+  - Dawei Cheng, Xiaoyang Wang, Ying Zhang, Liqing Zhang
+  - [[Paper]](https://www.pismin.com/10.1109/TKDE.2020.3025588), [[Link]](https://ieeexplore.ieee.org/abstract/document/9204584)
+
 - **<div id = 'fcl'>Deep Representation Learning With Full Center Loss for Credit Card Fraud Detection (TCSS 2020)</div>**
   - Zhenchuan Li, Guanjun Liu, Changjun Jiang
-  - [[Link]](https://ieeexplore.ieee.org/abstract/document/9000549)
+  - [[Link]](https://ieeexplore.ieee.org/abstract/document/9000549) 
   
   
 ## 2019
@@ -68,6 +85,14 @@ A pinpointed list of credit payment, credit card fraud detection papers &amp; re
   - Yue Wu, Yunjie Xu, Jiaoyang Li
   - [[Paper]](https://sci-hub.wf/10.1016/j.dss.2019.113155)  
 
+
+## 2018
+
+- **<div id = 'sclstm'>Sequence Classification for Credit-card Fraud Detection (ESWA 2018)</div>**
+  - Johannes Jurgovsky, Michael Granitzer, Konstantin Ziegler, Sylvie Calabretto, Pierre-Edouard Portier, Liyun He-Guelton, Olivier Caelen
+  - [[Paper]](https://sci-hub.wf/10.1016/j.eswa.2018.01.037)
+
+
 ## 2017
 
 - **<div id = 'jdfinance'>Graph Mining Assisted Semi-supervised Learning for Fraudulent Cash-out Detection (ASONMA 2017)</div>**
@@ -80,6 +105,7 @@ A pinpointed list of credit payment, credit card fraud detection papers &amp; re
 
 
 ## 2015
+
 - **<div id = 'apate'>APATE: A Novel Approach for Automated Credit Card Transaction Fraud Detection using Network-Based Extensions (DSS 2015)</div>**
   - Véronique Van Vlasselaer, Cristián Bravo, Olivier Caelen, Tina EliassRad, Leman Akoglu, Monique Snoeck, Bart Baesen
   - [[Paper]](http://www.eliassi.org/papers/vanvlasselaer_dss2015.pdf)
