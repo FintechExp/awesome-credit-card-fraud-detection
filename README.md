@@ -4,7 +4,7 @@
     <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/></a>
 </div>
 
-A pinpointed list of works on credit payment, credit card fraud detection. 
+A pinpointed list of works on credit payment, credit card fraud detection, credit risk or default behavior analysis.
 
 
 ## 2023
@@ -24,6 +24,10 @@ A pinpointed list of works on credit payment, credit card fraud detection.
 - **<div id = 'stgn'>A Spatial–Temporal Gated Network for Credit Card Fraud Detection by Learning Transactional Representations (TASAE 2023)</div>** 
   - Yu Xie, Guanjun Liu, MengChu Zhou, Lifei Wei, Honghao Zhu, Rigui Zhou, Lei Cao.
   - [[Link]](https://ieeexplore.ieee.org/abstract/document/10345549)
+
+- **<div id = 'motifgnn'>Financial Default Prediction via Motif-preserving Graph Neural Network with Curriculum Learning (KDD 2023)</div>**
+  - Daixin Wang, Zhiqiang Zhang, Yeyu Zhao, Kai Huang, Yulin Kang, Jun Zhou
+  - [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599351)
 
 
 ## 2022
@@ -66,11 +70,11 @@ A pinpointed list of works on credit payment, credit card fraud detection.
   - Dawei Cheng, Xiaoyang Wang, Ying Zhang, Liqing Zhang
   - [[Paper]](https://www.pismin.com/10.1109/TKDE.2020.3025588), [[Link]](https://ieeexplore.ieee.org/abstract/document/9204584)
 
-- **<div id = 'fcl'>Deep Representation Learning With Full Center Loss for Credit Card Fraud Detection (TCSS 2020)</div>**
-  - Zhenchuan Li, Guanjun Liu, Changjun Jiang
-  - [[Link]](https://ieeexplore.ieee.org/abstract/document/9000549) 
-  
-  
+- **<div id = 'ews-gcn'>EWS-GCN: Edge Weight-Shared Graph Convolutional Network for Transactional Banking Data (ICDM 2020)</div>**
+  - Ivan Sukharev, Valentina Shumovskaia, Kirill Fedyanin, Maxim Panov, Dmitry Berestnev
+  - [[Paper]](https://www.researchgate.net/profile/Maxim-Panov/publication/349209985_EWS-GCN_Edge_Weight-Shared_Graph_Convolutional_Network_for_Transactional_Banking_Data/links/602d79b0299bf1cc26d236ee/EWS-GCN-Edge-Weight-Shared-Graph-Convolutional-Network-for-Transactional-Banking-Data.pdf)
+
+    
 ## 2019
 
 - **<div id = 'hacud'>Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism (AAAI 2019)</div>**
@@ -80,6 +84,10 @@ A pinpointed list of works on credit payment, credit card fraud detection.
 - **<div id = 'deeptrax'>Deeptrax: Embedding Graphs of Financial Transactions (ICMLA 2019)</div>**
   - C. Bayan Bruss, Anish Khazane, Jonathan Rider, Richard Serpe, Antonia Gogoglou, Keegan E. Hines
   - [[Paper]](https://arxiv.org/pdf/1907.07225.pdf)
+
+- **<div id = 'semignn'>A Semi-Supervised Graph Attentive Network for Financial Fraud Detection (ICDM 2019)</div>**
+  - Daixin Wang, Jianbin Lin, Peng Cui, Quanhui Jia, Zhen Wang, Yanming Fang, Quan Yu, Jun Zhou, Shuang Yang, Yuan Qi
+  - [[Paper]](https://www.researchgate.net/profile/Peng-Cui-34/publication/339675428_A_Semi-supervised_Graph_Attentive_Network_for_Financial_Fraud_Detection/links/61f2b74edafcdb25fd55cb81/A-Semi-supervised-Graph-Attentive-Network-for-Financial-Fraud-Detection.pdf)
  
 - **<div id = 'fda'>Feature Construction for Fraudulent Credit Card Cash-out Detection (DSS 2019)</div>**
   - Yue Wu, Yunjie Xu, Jiaoyang Li
@@ -99,6 +107,10 @@ A pinpointed list of works on credit payment, credit card fraud detection.
   - Yuan Li, Yiheng Sun, Noshir Contractor
   - [[Paper]](https://nosh.northwestern.edu/wp-content/uploads/2020/10/Graph-mining-assisted-semi-supervised-learning-for-fraudulent-cash-out-detection.pdf), [[Slider]](https://nosh.northwestern.edu/wp-content/uploads/2017/08/asonam2017-graph-mining.pdf)
 
+- **<div id = 'dtf'>Understanding Default Behavior in Online Lending (CIKM 2017)</div>**
+  - Yang Yang, Yuhong Xu, Chunping Wang, Yizhou Sun, Fei Wu, Yueting Zhuang, Ming Gu 
+  - [[Paper]](http://yangy.org/works/loan_fraud/cikm19_loan.pdf)
+  
 - **<div id = 'fds'>Credit Card Fraud Detection: a Realistic Modeling and a Novel Learning Strategy (TNNLS 2017)</div>**
   - Andrea Dal Pozzolo, Giacomo Boracchi, Olivier Caelen, Cesare Alippi, Gianluca Bontempi
   - [[Paper]](https://dalpozz.github.io/static/pdf/TNNLS_2017.pdf)
