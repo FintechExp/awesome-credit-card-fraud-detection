@@ -116,6 +116,13 @@ A pinpointed list of works on credit payment, credit card fraud detection, credi
   - [[Paper]](https://dalpozz.github.io/static/pdf/TNNLS_2017.pdf)
 
 
+## 2016
+
+- **<div id = 'cnn-model'>Credit Card Fraud Detection Using Convolutional Neural Networks (ICONIP 2015)</div>**
+  - Kang Fu, Dawei Cheng, Yi Tu, Liqing Zhang
+  - [[Paper]](https://www.pismin.com/10.1007/978-3-319-46675-0_53)
+
+
 ## 2015
 
 - **<div id = 'apate'>APATE: A Novel Approach for Automated Credit Card Transaction Fraud Detection using Network-Based Extensions (DSS 2015)</div>**
